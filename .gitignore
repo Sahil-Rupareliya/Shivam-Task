@@ -1,0 +1,28 @@
+# Python
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# OS/OneDrive
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Env/Secrets
+.env
+
+# Redis
+dump.rdb
+
+# Logs
+*.log
+
+# Editors
+.vscode/
+.idea/
